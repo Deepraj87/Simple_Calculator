@@ -1,2 +1,2 @@
-# Simple-Calculator-
+# Simple_Calculator
 My first repo.
