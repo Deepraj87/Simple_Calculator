@@ -34,6 +34,10 @@ This project is a simple calculator application built using Python's `tkinter` l
     ```bash
     python P_3.py
 
+## Demo
+
+![WhatsApp Image 2025-01-24 at 21 11 43](https://github.com/user-attachments/assets/8e95b51f-bc03-4069-92e1-8f977848f68f)
+
 
 ## How It Works
 - Open the application.
